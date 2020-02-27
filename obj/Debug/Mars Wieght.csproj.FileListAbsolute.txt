@@ -1,0 +1,9 @@
+C:\Users\Issem\Documents\C#\Mars Wieght\bin\Debug\Mars Wieght.exe.config
+C:\Users\Issem\Documents\C#\Mars Wieght\bin\Debug\Mars Wieght.exe
+C:\Users\Issem\Documents\C#\Mars Wieght\bin\Debug\Mars Wieght.pdb
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars Wieght.csprojAssemblyReference.cache
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars_Wieght.Form1.resources
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars_Wieght.Properties.Resources.resources
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars Wieght.csproj.GenerateResource.cache
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars Wieght.exe
+C:\Users\Issem\Documents\C#\Mars Wieght\obj\Debug\Mars Wieght.pdb
